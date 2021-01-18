@@ -1,16 +1,19 @@
 ## 장고 프로젝트에 대해서 ...
 
 1. 프로젝트는 어플리케이션의 집합이다. 
-2. :star: **어플리케이션은 function의 집합**이다. 
+2. :star: **어플리케이션은 function의 집합(group of function)**이다.
 3. 어떻게 프로젝트를 계획해야할까? 
    >  ### divide and conquer ! 
+4. 한문장으로 어플리케이션을 정의할 수 있어야한다. 항상 작게 나눠야한다. 
+5. 어플리케이션은 항상 복수형이어야한다. 
 
-
-## 장고 프로젝트를 시작해보자 ! 
+## 장고 프로젝트를 시작해보자 ! :cherry:
 
 1. ```django-admin startapp [어플리케이션이름]```을 터미널에서 쓰자. 
 2. superuser는 기본으로 만들자 ```python manage.py createsuperuser```
+   (sominhoho@gmail.com)
 3. 서버 시작은 ```python manage.py runserver```
+
 
 ## 장고는 프레임워크다
 * 프레임워크와 라이브러리의 차이
